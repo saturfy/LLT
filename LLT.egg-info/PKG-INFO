@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: LLT
+Version: 1.0.0
+Summary: python package which implements the LLT method
+Home-page: https://github.com/saturfy/LLT
+Author: Peter Posfay
+Author-email: posfay.peter@wigner.hu
+License: MIT
+Keywords: LLT,classification,feature_generation,linear_law
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+Python package which implements the LLT method       (Linear Law Transformation) for time series classification.        The package contains sample preprocessing routines and feature        generation tools for the linear law transformation.
+
