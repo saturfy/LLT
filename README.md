@@ -63,4 +63,4 @@ Note: you have to make sure that your virtual environment is avalibale for jupyt
     python -m ipykernel install --name=<name of your virtual environment>
     
 # Documentation
-The package contains an API like html documentation in [\docs\LLT\index.html]([https://github.com/saturfy/LLT/blob/main/docs/LLT/index.html](https://rawcdn.githack.com/saturfy/LLT/3900885c310b19bc94333fd5079a3587e84cad8f/docs/LLT/index.html))
+The package contains an API like html documentation in [\docs\LLT\index.html](https://rawcdn.githack.com/saturfy/LLT/3900885c310b19bc94333fd5079a3587e84cad8f/docs/LLT/index.html)
