@@ -1,6 +1,7 @@
 ![](https://raw.githubusercontent.com/saturfy/LLT/main/LLT.png)
 
 ![](https://img.shields.io/badge/LLT-v1.0.0-brightgreen)
+![](https://img.shields.io/badge/python->=3.9-brightgreen)
 ![](https://img.shields.io/badge/scipy-1.10.1-orange)
 ![](https://img.shields.io/badge/numpy-1.24.2-orange)
 
