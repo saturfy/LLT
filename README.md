@@ -18,9 +18,8 @@ The mathematical description and the explanation of this method can be found in 
 
 ## The LLT package
 The package contains two subpackages
-- preprocessing
-- linear_law
-__preprocessing__ conatins commonly used function duging evaluation and data formatting for the transformation. __linear_law__ contains the implementation of the LLT technique and can generate linear law features from the dataset.
+- __preprocessing__: conatins commonly used function duging evaluation and data formatting for the transformation.
+- __linear_law__ : the implementation of the LLT technique and can generate linear law features from the dataset.
 
 ----
 
