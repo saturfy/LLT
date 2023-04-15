@@ -18,7 +18,7 @@ The mathematical description and the explanation of this method can be found in 
 - [Slides which explains how the method works and present the ECG signal classification task as a case study](https://github.com/saturfy/LLT/blob/main/docs/Peter_Posfay_ECG_linear_law_1_0.pdf)
 
 ## The LLT package
-The package contains two subpackages
+The package contains two sub packages
 - __preprocessing__: conatins commonly used function duging evaluation and data formatting for the transformation.
 - __linear_law__ : the implementation of the LLT technique and can generate linear law features from the dataset.
 
