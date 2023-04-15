@@ -15,7 +15,7 @@ The mathematical description and the explanation of this method can be found in 
 - [Categorizing human movement type using LLT transformed multi dimensional sensor data](https://www.nature.com/articles/s41598-022-22829-2)
 - [Detecting anomalies in bitcoin prices using LLT](https://arxiv.org/abs/2201.09790)
 - [Detailed mathematical background](https://arxiv.org/abs/2104.10970)
-- [Slides which explains how the method works and present the ECG signal classification task as a case study] ()
+- [Slides which explains how the method works and present the ECG signal classification task as a case study](https://github.com/saturfy/LLT/blob/main/docs/Peter_Posfay_ECG_linear_law_1_0.pdf)
 
 ## The LLT package
 The package contains two subpackages
